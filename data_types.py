@@ -1,19 +1,19 @@
 
-text = "This is a string."
-print(text)
-print(type(text), "\n")
+string_ = "This is a string."
+print(string_)
+print(type(string_), "\n")
 
-x = 13
-print(x)
-print(type(x), "\n")
+int_ = 13
+print(int_)
+print(type(int_), "\n")
 
-y = 13.13
-print(y)
-print(type(y), "\n")
+float_ = 13.13
+print(float_)
+print(type(float_), "\n")
 
-z = 13 + 13j
-print(z)
-print(type(z), "\n")
+complex_ = 13 + 13j
+print(complex_)
+print(type(complex_), "\n")
 
 list_ = ["Alpha", "Bravo", "Charlie"]
 print(list_)
